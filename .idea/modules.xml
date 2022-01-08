@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataPreprocessing/DataPreprocessing.iml" filepath="$PROJECT_DIR$/DataPreprocessing/DataPreprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Machine Learning.iml" filepath="$PROJECT_DIR$/Machine Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regression/Regression.iml" filepath="$PROJECT_DIR$/Regression/Regression.iml" />
+    </modules>
+  </component>
+</project>
