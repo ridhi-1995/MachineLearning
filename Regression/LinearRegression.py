@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-dataset = pd.read_csv(r'C:\Users\ridhi\OneDrive\Desktop\Salary_Data.csv')
+dataset = pd.read_csv(r'C:\Users\ridhi\OneDrive\Desktop\Data sets\Salary_Data.csv')
 X = dataset.iloc[:, :-1].values  # all the rows and columns excluding the last one
 Y = dataset.iloc[:, -1].values  # only last column
 # Splitting the data set into training set and test set
